@@ -72,6 +72,15 @@ footer {
   margin-right: 25px;
   text-align: justify;
 }
+.food-color {
+  color: orange;
+}
+.village-color {
+  color: wheat;
+}
+.footer-text {
+  color: beige;
+}
 body {
   margin: 0px;
 }
