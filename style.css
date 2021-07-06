@@ -23,6 +23,7 @@ h1 {
 .middle-banner {
   background-image: url(images/shapes/7.png);
   background-repeat: no-repeat;
+  background-size: cover;
 }
 .link-button {
   text-decoration: none;
